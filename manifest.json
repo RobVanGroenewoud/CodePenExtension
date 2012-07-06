@@ -4,7 +4,7 @@
  "default_icon": "icon-128.png"
  },
  "name": "CodePen Extension",
- "description": "Click it when browsing around the internet and find some code you want to play with. You'll be able to select the blocks of code you want by clicking on them and then easily bring them over to CodePen to play!",
+ "description": "Provides access to the CodePen bookmarklet functionality through an extension.",
  "homepage_url": "https://github.com/RobVanGroenewoud/CodePenExtension",
  "icons": {
      "16": "icon-16.png",
