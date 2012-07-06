@@ -1,0 +1,19 @@
+{
+ "background_page": "background.html",
+ "browser_action": {
+ "default_icon": "icon-128.png"
+ },
+ "name": "CodePen Extension",
+ "description": "Click it when browsing around the internet and find some code you want to play with. You'll be able to select the blocks of code you want by clicking on them and then easily bring them over to CodePen to play!",
+ "homepage_url": "https://github.com/RobVanGroenewoud/CodePenExtension",
+ "icons": {
+     "16": "icon-16.png",
+     "48": "icon-48.png",
+     "128": "icon-128.png" },
+ "permissions": [
+     "tabs",
+     "http://*/*",
+     "https://*/*"
+ ],
+ "version": "0.1"
+}
